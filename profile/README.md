@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="AutoCAD Banner" width="20%" />
+  <img src="https://cdn-1.webcatalog.io/catalog/autocad/autocad-social-preview.png?v=1753662970129" alt="AutoCAD Banner" width="20%" />
 </p>
 
 <h1 align="center">⚡ AutoCAD Unlock Tool</h1>
