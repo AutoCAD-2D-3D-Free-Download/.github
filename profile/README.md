@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://cdn-1.webcatalog.io/catalog/autocad/autocad-social-preview.png?v=1753662970129" alt="AutoCAD Banner" width="35%" />
+  <img src="https://cdn-1.webcatalog.io/catalog/autocad/autocad-social-preview.png?v=1753662970129" alt="AutoCAD Banner" width="60%" />
 </p>
 
 <h1 align="center">⚡ AutoCAD Unlock Tool</h1>
